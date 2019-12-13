@@ -1,2 +1,5 @@
 class Dog
-end 
+  name= fido
+  @fido.name 
+
+end
